@@ -1,0 +1,5 @@
+Github login:
+Name: dashboard-app
+Domain: dev-5u-rhd6b.us.auth0.com
+Cleint ID: YRBNM20hymcN2y05YtC1xjo05NC3kfNu
+cleint Secret: TeVSoNeeNgGebKDCYylKYHAGtYERiAiZ8UPpCrKZ1cZYPN-Id72zNKnl3PKXy2We

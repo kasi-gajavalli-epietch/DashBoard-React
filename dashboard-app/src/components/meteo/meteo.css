@@ -1,0 +1,10 @@
+.meteo {
+    margin-left:150px;
+    height: 60rem;
+     overflow-x: scroll;
+}
+
+.drag {
+     max-width: 400px;
+     
+}

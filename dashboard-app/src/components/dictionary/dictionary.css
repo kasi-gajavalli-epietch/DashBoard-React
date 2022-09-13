@@ -1,0 +1,64 @@
+@import url(
+'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;0,800;1,300&display=swap');
+ 
+.dictionary {
+  height: 20rem;
+  width: 30rem;
+  cursor: move;
+  margin: auto;
+  z-index: -1;
+  position: auto;
+  background: url('https://thumbs.dreamstime.com/z/open-book-hardback-books-wooden-table-education-background-back-to-school-copy-space-text-75367702.jpg');
+  background-color: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid black;
+  overflow-y: scroll;
+}
+ 
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Poppins';
+  color: #04d5f9;
+  padding: 1.5em;
+}
+ 
+h2{
+  font-size: 30px;
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+ 
+h4{
+  color: #04d5f9;
+}
+ 
+input{
+  width: 16rem;
+  height: 3rem;
+  font-size: 20px;
+  padding-left: 3rem;
+  margin: 1rem 3rem;
+}
+ 
+.searchBox > button{
+  height: 38px;
+  width: 60px;
+  border: none;
+  color: black;
+  cursor: pointer;
+  padding: 0;
+}
+ 
+.showResults{
+  width: 500px;
+  padding: 20px;
+}
+ 
+.showResults > h2 > button{
+  background: none;
+  border: none;
+  cursor: pointer;
+}

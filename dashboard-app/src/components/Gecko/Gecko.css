@@ -1,0 +1,71 @@
+.GeckoApi{
+    height: 30rem;
+    max-width: 500px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: auto;
+    user-select: none;
+    background: black;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.27 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding-top: 2rem;
+    position: fixed;
+    left: 300px;
+    top: 20px;
+}
+
+td{
+    
+    align-items: baseline;
+    color:#fff;
+    border-bottom: 1px solid #d5d1d1;
+}
+
+.row input{
+    width: 15rem;
+    margin-bottom: 0.2rem;
+    height: 2rem;
+    outline:none;
+    font-size: 1.2rem;
+    font-family: Georgia;
+    letter-spacing: 1px;
+    margin-left: 8rem;
+}
+.row{
+    align-items: center;
+}
+
+.cryptoGecko{
+    padding:0rem;
+    overflow-y: scroll;
+    height: 23rem;
+}
+
+.coin-name{
+    align-self: baseline;
+    padding-bottom: 0.5rem;
+}
+
+.total-table{
+    display:block;
+}
+.coin-image{
+    text-transform: capitalize;
+    font-size: 1.3rem;
+}
+.coin-name{
+    font-size: 0.9rem;
+    color: rgb(170, 155, 155);
+}
+.price-change{
+    color: #85bb65;
+}
+.volume{
+    padding-left: 0.7rem;
+}
+
