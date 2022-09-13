@@ -6,7 +6,7 @@ DashBoard with multiple widgets and services created with Raectjs.
 * Dictionary
 * Change Background
 * Login/Logout
-* Personamilie your dashboard
+* Personalise your dashboard
 * Youtube Player
 * Anime database
 * Cryto Stocks
